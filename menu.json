@@ -1,0 +1,112 @@
+[
+  {
+    "category": "Entrantes fríos",
+    "name": "Tomate con ventresca",
+    "price": "16 €"
+  },
+  {
+    "category": "Entrantes fríos",
+    "name": "Tabla de quesos nacionales",
+    "price": "19 €"
+  },
+  {
+    "category": "Entrantes fríos",
+    "name": "Jamón ibérico cebo",
+    "price": "18 €"
+  },
+  {
+    "category": "Entrantes calientes",
+    "name": "Croquetas de bacalao",
+    "price": "14 €"
+  },
+  {
+    "category": "Entrantes calientes",
+    "name": "Bandeja de verduras",
+    "price": "15 €"
+  },
+  {
+    "category": "Entrantes calientes",
+    "name": "Pimientos de Padrón",
+    "price": "12 €"
+  },
+  {
+    "category": "Paellas",
+    "name": "Paella valenciana",
+    "price": "17 €"
+  },
+  {
+    "category": "Paellas",
+    "name": "Paella de marisco",
+    "price": "22 €"
+  },
+  {
+    "category": "Paellas",
+    "name": "Paella de verduras",
+    "price": "18 €"
+  },
+  {
+    "category": "Paellas",
+    "name": "Arroz del senyoret",
+    "price": "23 €"
+  },
+  {
+    "category": "Paellas",
+    "name": "Arroz negro con rape y ajetes",
+    "price": "18 €"
+  },
+  {
+    "category": "Melosos / Caldosos",
+    "name": "Arroz meloso de pato y boletus",
+    "price": "19 €"
+  },
+  {
+    "category": "Melosos / Caldosos",
+    "name": "Arroz caldoso de marisco",
+    "price": "22 €"
+  },
+  {
+    "category": "Arroces al horno",
+    "name": "Arroz al horno",
+    "price": "19 €"
+  },
+  {
+    "category": "Arroces al horno",
+    "name": "Arroz con pasas y garbanzos",
+    "price": "17 €"
+  },
+  {
+    "category": "Carnes",
+    "name": "Chuletas de cordero de Cella",
+    "price": "20 €"
+  },
+  {
+    "category": "Carnes",
+    "name": "Solomillo de ternera",
+    "price": "22 €"
+  },
+  {
+    "category": "Pescados",
+    "name": "Rape a la plancha con verduras",
+    "price": "19 €"
+  },
+  {
+    "category": "Pescados",
+    "name": "Lubina a la plancha",
+    "price": "19 €"
+  },
+  {
+    "category": "Postres",
+    "name": "Tarta de queso",
+    "price": "6 €"
+  },
+  {
+    "category": "Postres",
+    "name": "Mousse de chufa",
+    "price": "6 €"
+  },
+  {
+    "category": "Postres",
+    "name": "Tarta de la abuela",
+    "price": "6 €"
+  }
+]
