@@ -290,3 +290,7 @@ html { scroll-padding-top: calc(var(--header-height) + 20px); }
 }
 @media(max-width:640px) { :root { --header-height:101px; } }
 @media(prefers-reduced-motion:reduce) { .reveal.animate:not(.is-visible) { opacity:1; transform:none; } }
+@media(max-width:900px) {
+ .nav-menu { display:none; transform:none; }
+ .nav-menu.open { display:flex; }
+}
